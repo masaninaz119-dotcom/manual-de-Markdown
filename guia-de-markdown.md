@@ -16,11 +16,11 @@ Continuación de la cita
 
 ## Listas
 ### Desordenadas
-Elemento 1
+ - Elemento 1
 
-Elemento 2
+ - Elemento 2
 
-Elemento 3
+ - Elemento 3
 
 
 ### Numeradas 
@@ -43,9 +43,10 @@ Esto es una separación
 *Texto en cursiva*
 
 # Enlaces
-https://github.com/masaninaz119-dotcom/manual-de-Markdown/blob/main/guia-de-markdown.md?plain=1
+[GitHub](https://github.com)
 
 ## Imágenes
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ## Código
 
@@ -53,6 +54,14 @@ https://github.com/masaninaz119-dotcom/manual-de-Markdown/blob/main/guia-de-mark
 Esto es código
 ~~~
 También puedes usar ``código`` asi
+
+## Tablas
+
+| Nombre | Edad |
+|--------|------|
+| Juan   | 23   |
+| Ana    | 31   |
+
 ## Anular Markdown
 
 De esta forma \*anulas Markdown*.
