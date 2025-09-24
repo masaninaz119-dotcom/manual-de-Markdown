@@ -7,7 +7,7 @@ Encabezado 4
 Encabezado 5 
 
 ## Citas
-Esto es una cita 
+> Esto es una cita 
 Continuación de la cita 
 
 ## Listas
@@ -23,3 +23,6 @@ Elemento 3
 
 ## Separaciones
 Esto es una separación 
+
+# Negritas y cursivas
+Texto en negrita y cursiva
